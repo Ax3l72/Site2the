@@ -60,7 +60,7 @@ h2:after {
 ============================ */
 
 header {
-    background-image: linear-gradient(rgba(0, 242, 96, 0.6), rgba(7, 117, 230, 0.6)), url(../img/Header.jpg);
+    background-image: linear-gradient(rgba(0, 242, 96, 0.6), rgba(7, 117, 230, 0.6)), url(https://user-images.githubusercontent.com/87115727/124879776-de8cef00-dfcd-11eb-8a5b-d197296560b7.jpg);
     height: 100vh;
     background-position: center;
     background-size: cover;
@@ -200,7 +200,7 @@ header {
 ============================ */
 
 .clients {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url(../img/clients/the-paysage.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url(https://user-images.githubusercontent.com/87115727/124879829-eba9de00-dfcd-11eb-853a-b258974670e4.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
