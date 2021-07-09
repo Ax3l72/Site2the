@@ -324,14 +324,14 @@ cite img {
 
 .contact-form {
     margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
 }
 
 .contact-form-all {
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
     border-radius: 10px;
     padding: 50px;
-    display: flex;
-    flex-direction: column;
 }
 
 .contact-message {
