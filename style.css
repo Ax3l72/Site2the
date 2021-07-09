@@ -331,7 +331,7 @@ cite img {
 .contact-form-all {
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
     border-radius: 10px;
-    padding: 50px;
+    padding: 50px!important;
 }
 
 .contact-message {
@@ -341,7 +341,6 @@ cite img {
 .btns-contact2 {
     background-color: green;
     color: #fff;
-    margin-right: 20px;
     border-color: #fff;
 }
 
